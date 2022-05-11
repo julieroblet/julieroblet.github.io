@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "julieroblet",
-    "currentPage": "index.html",
+    "currentPage": "fr.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -595,7 +595,7 @@
     },
     "fr.html": {
       "settings": {
-        "meta_descr": "onto kinesiologie, stress",
+        "meta_descr": "onto kinesiologie, santé  physique, mentale et émotionnelle, bien-être",
         "title": "Français",
         "order": 1
       },
@@ -1285,9 +1285,10 @@
     },
     "eng.html": {
       "settings": {
-        "meta_descr": "onto kinesiologie, stress",
+        "meta_descr": "onto kinesiology, physical and mental wellbeing, stress relief",
         "title": "English",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/julie-bridger-profile-92x121.jpg"
       },
       "components": [
         {
